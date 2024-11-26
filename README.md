@@ -35,9 +35,13 @@ IDEs:&nbsp;
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-8A2BE2?style=flat-square&logo=visual-studio&logoColor=white)&nbsp;
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)&nbsp;
 
+<br/>
+<br/>
+
 ## 🌐 Socials
 
 <a href="https://www.linkedin.com/in/marlon-cesar" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.instagram.com/this.marloncesar/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1b0a6f&height=150&section=footer"/>
+
