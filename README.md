@@ -42,6 +42,11 @@
 
 ## 💻 Certifications
 
+<br/>
+
+<div align="center">
+  <img src="https://github.com/marlon-cesar/marlon-cesar/blob/main/image/badge_AZ-900.png" min-width="100px" max-width="100px" width="100px" alt="Badge Azure AZ-900" />
+</div>
 
 ## 🌐 Socials
 
