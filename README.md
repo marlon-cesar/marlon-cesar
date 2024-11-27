@@ -19,7 +19,7 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=plastic&logo=bootstrap)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=plastic&logo=typescript&logoColor=white)&nbsp;
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="350px" max-width="350px" width="350px" align="right" alt="Computador iuriCode">
+<img src="https://github.com/marlon-cesar/marlon-cesar/blob/main/image/computer-illustration.png" min-width="350px" max-width="350px" width="350px" align="right" alt="Computador iuriCode">
 
 ![Mobile](https://img.shields.io/badge/Mobile%3A-black?style=flat-square&logo=buddy&logoColor=white)&nbsp;
 ![Xamarin](https://img.shields.io/badge/Xamarin-3498DB?logo=xamarin&logoColor=white&style=plastic)&nbsp;
