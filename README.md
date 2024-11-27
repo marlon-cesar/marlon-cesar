@@ -44,8 +44,10 @@
 
 <br/>
 
-<div align="center">
-  <img src="https://github.com/marlon-cesar/marlon-cesar/blob/main/image/badge_AZ-900.png" min-width="100px" max-width="100px" width="100px" alt="Badge Azure AZ-900" />
+<div align="center">  
+   <a href="https://www.credly.com/badges/ef90b489-eb67-40a8-9530-6d4e00e1fe60" alt="Microsoft Azure Fundamentals" target="_blank">
+    <img src="https://github.com/marlon-cesar/marlon-cesar/blob/main/image/badge_AZ-900.png" min-width="100px" max-width="100px" width="100px" alt="Badge Azure AZ-900" />
+   </a>
 </div>
 
 ## 🌐 Socials
