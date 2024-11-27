@@ -4,6 +4,8 @@
 
 ## ⚡ Technologies
 
+<br/>
+
 Backend: &nbsp;
 ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=flat-square)&nbsp;
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?logo=.net&logoColor=white&style=flat-square)&nbsp;
