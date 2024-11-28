@@ -45,8 +45,14 @@
 <br/>
 
 <div align="center">  
-   <a href="https://www.credly.com/badges/ef90b489-eb67-40a8-9530-6d4e00e1fe60" alt="Microsoft Azure Fundamentals" target="_blank" title="View">
-    <img src="https://github.com/marlon-cesar/marlon-cesar/blob/main/image/badge_AZ-900.png" min-width="100px" max-width="100px" width="100px" alt="Badge Azure AZ-900" />
+   <a href="https://www.credly.com/badges/ef90b489-eb67-40a8-9530-6d4e00e1fe60" alt="Microsoft Azure Fundamentals AZ-900" target="_blank" title="View">
+    <img src="https://github.com/marlon-cesar/marlon-cesar/blob/main/image/badge_AZ-900.png" min-width="100px" max-width="100px" width="100px" alt="Microsoft Azure Fundamentals AZ-900" />
+   </a>&nbsp;
+   <a href="https://cursos.becompliance.com/badges/badge.php?hash=08089d400387b8242c95303207615994ce7cc741" alt="Mestre do Compartilhamento de Dados!" target="_blank" title="View">
+    <img src="https://github.com/marlon-cesar/marlon-cesar/blob/main/image/badge_AZ-900.png" min-width="100px" max-width="100px" width="100px" alt="Mestre do Compartilhamento de Dados!" />
+   </a>&nbsp;
+   <a href="[https://cursos.becompliance.com/badges/badge.php?hash=08089d400387b8242c95303207615994ce7cc741](https://cursos.becompliance.com/badges/badge.php?hash=479b123a59a4fd1eba2b383c8966b0b6e6b864d9)" alt="Categorização de Dados" target="_blank" title="View">
+    <img src="https://github.com/marlon-cesar/marlon-cesar/blob/main/image/badge_AZ-900.png" min-width="100px" max-width="100px" width="100px" alt="Categorização de Dados" />
    </a>
 </div>
 
