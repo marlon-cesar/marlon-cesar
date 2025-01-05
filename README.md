@@ -7,7 +7,7 @@
 <br/>
 
 ![Backend](https://img.shields.io/badge/Backend%3A-black?style=flat-square&logo=buddy&logoColor=white)&nbsp;
-![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=plastic)&nbsp;
+[![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?style=plastic&logo=cshrp&logoColor=white)](#)&nbsp;
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?logo=.net&logoColor=white&style=plastic)&nbsp;
 
 
@@ -31,11 +31,11 @@
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?logo=sqlite&logoColor=white&style=plastic)&nbsp;
 
 ![Cloud](https://img.shields.io/badge/Cloud%3A-black?style=flat-square&logo=buddy&logoColor=white)&nbsp;
-![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=plastic&logo=microsoft-azure&logoColor=white)&nbsp;
+[![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?style=plastic&logo=msazure&logoColor=white)](#)&nbsp;
 
 ![IDEs](https://img.shields.io/badge/IDEs%3A-black?style=flat-square&logo=buddy&logoColor=white)&nbsp;
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-8A2BE2?style=plastic&logo=visual-studio&logoColor=white)&nbsp;
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=plastic&logo=visual-studio-code&logoColor=white)&nbsp;
+[![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?style=plastic&logo=visual-studio&logoColor=white)](#)
+[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=vsc&logoColor=white)](#)&nbsp;
 
 <br/>
 <br/>
