@@ -34,7 +34,7 @@
 [![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?style=plastic&logo=msazure&logoColor=white)](#)&nbsp;
 
 ![IDEs](https://img.shields.io/badge/IDEs%3A-black?style=flat-square&logo=buddy&logoColor=white)&nbsp;
-[![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?style=plastic&logo=visual-studio&logoColor=white)](#)
+[![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?style=plastic&logo=visual-studio&logoColor=white)](#)&nbsp;
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=vsc&logoColor=white)](#)&nbsp;
 
 <br/>
@@ -45,21 +45,18 @@
 <br/>
 
 <div align="center">  
-   <a href="https://www.credly.com/badges/ef90b489-eb67-40a8-9530-6d4e00e1fe60" alt="Microsoft Azure Fundamentals AZ-900" target="_blank" title="Microsoft Azure Fundamentals AZ-900">
-    <img src="https://github.com/marlon-cesar/marlon-cesar/blob/main/image/badge_AZ-900.png" min-width="100px" max-width="100px" width="100px" alt="Microsoft Azure Fundamentals AZ-900" />
-   </a>&nbsp;
-   <a href="https://cursos.becompliance.com/badges/badge.php?hash=08089d400387b8242c95303207615994ce7cc741" alt="Mestre do Compartilhamento de Dados!" target="_blank" title="Mestre do Compartilhamento de Dados!">
-    <img src="https://github.com/marlon-cesar/marlon-cesar/blob/main/image/badge_Compartilhamento_de_Dados.png" min-width="100px" max-width="100px" width="100px" alt="Mestre do Compartilhamento de Dados!" />
-   </a>&nbsp;
-   <a href="[https://cursos.becompliance.com/badges/badge.php?hash=08089d400387b8242c95303207615994ce7cc741](https://cursos.becompliance.com/badges/badge.php?hash=479b123a59a4fd1eba2b383c8966b0b6e6b864d9)" alt="Categorização de Dados" target="_blank" title="Categorização de Dados">
-    <img src="https://github.com/marlon-cesar/marlon-cesar/blob/main/image/badge_Categoriza%C3%A7%C3%A3o.png" min-width="100px" max-width="100px" width="100px" alt="Categorização de Dados" />
-   </a>
+   <a href="https://www.credly.com/badges/ef90b489-eb67-40a8-9530-6d4e00e1fe60" alt="Microsoft Azure Fundamentals AZ-900" target="_blank" title="Microsoft Azure Fundamentals AZ-900"><img src="https://github.com/marlon-cesar/marlon-cesar/blob/main/image/badge_AZ-900.png" min-width="100px" max-width="100px" width="100px" alt="Microsoft Azure Fundamentals AZ-900" /></a>&nbsp;
+   <a href="https://cursos.becompliance.com/badges/badge.php?hash=08089d400387b8242c95303207615994ce7cc741" alt="Mestre do Compartilhamento de Dados!" target="_blank" title="Mestre do Compartilhamento de Dados!"><img src="https://github.com/marlon-cesar/marlon-cesar/blob/main/image/badge_Compartilhamento_de_Dados.png" min-width="100px" max-width="100px" width="100px" alt="Mestre do Compartilhamento de Dados!" /></a>&nbsp;
+   <a href="[https://cursos.becompliance.com/badges/badge.php?hash=08089d400387b8242c95303207615994ce7cc741](https://cursos.becompliance.com/badges/badge.php?hash=479b123a59a4fd1eba2b383c8966b0b6e6b864d9)" alt="Categorização de Dados" target="_blank" title="Categorização de Dados"><img src="https://github.com/marlon-cesar/marlon-cesar/blob/main/image/badge_Categoriza%C3%A7%C3%A3o.png" min-width="100px" max-width="100px" width="100px" alt="Categorização de Dados" /></a>
 </div>
 
 ## 🌐 Socials
 
-<a href="https://www.linkedin.com/in/marlon-cesar" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.instagram.com/this.marloncesar/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/marlon-cesar" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff" target="_blank"></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.instagram.com/this.marloncesar/" target="_blank">
+   <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1b0a6f&height=150&section=footer"/>
 
