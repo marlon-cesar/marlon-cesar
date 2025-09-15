@@ -23,12 +23,14 @@
 
 ![Mobile](https://img.shields.io/badge/Mobile%3A-black?style=flat-square&logo=buddy&logoColor=white)&nbsp;
 ![Xamarin](https://img.shields.io/badge/Xamarin-3498DB?logo=xamarin&logoColor=white&style=plastic)&nbsp;
+![Blazor](https://img.shields.io/badge/-Blazor-5C2D91?style=plastic&logo=blazor)&nbsp;
 
 
 ![Database](https://img.shields.io/badge/Database%3A-black?style=flat-square&logo=buddy&logoColor=white)&nbsp;
 ![Microsoft SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=plastic&logo=microsoft-sql-server&logoColor=white)&nbsp;
 ![PostgreSql](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white&style=plastic)&nbsp;
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?logo=sqlite&logoColor=white&style=plastic)&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=plastic)&nbsp;
 
 ![Cloud](https://img.shields.io/badge/Cloud%3A-black?style=flat-square&logo=buddy&logoColor=white)&nbsp;
 [![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?style=plastic&logo=msazure&logoColor=white)](#)&nbsp;
