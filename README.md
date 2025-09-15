@@ -54,10 +54,16 @@
 
 ## 🌐 Socials
 
-<a href="https://www.linkedin.com/in/marlon-cesar" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff" target="_blank"></a>
+<a href="https://www.linkedin.com/in/marlon-cesar" target="_blank">
+   <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff" target="_blank">
+</a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://www.instagram.com/this.marloncesar/" target="_blank">
    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://marlon-cesar.github.io" target="_blank">
+   <img src="https://img.shields.io/badge/-Portfolio-%47A248?style=for-the-badge&logo=myshows&logoColor=white">
 </a>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1b0a6f&height=150&section=footer"/>
